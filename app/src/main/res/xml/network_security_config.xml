@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- 仅供本地实验室使用，允许 HTTP 明文访问你的测试服务器 -->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
